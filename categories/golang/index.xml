@@ -9,12 +9,29 @@
     <atom:link href="http://roamerlv.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Linux AWK入门</title>
+      <link>http://roamerlv.github.io/linux/awk/</link>
+      <pubDate>Fri, 24 Feb 2017 14:42:43 +0800</pubDate>
+      
+      <guid>http://roamerlv.github.io/linux/awk/</guid>
+      <description>
+
+&lt;h2 id=&#34;awk&#34;&gt;AWK&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <link>http://roamerlv.github.io/welcome/</link>
       <pubDate>Fri, 24 Feb 2017 14:42:43 +0800</pubDate>
       
       <guid>http://roamerlv.github.io/welcome/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Hello, I&amp;rsquo;m Roamer Lv. Welcome to my coder zone.&lt;/p&gt;
+
+&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
